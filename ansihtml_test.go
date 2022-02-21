@@ -3,7 +3,7 @@ package ansihtml_test
 import (
 	"testing"
 
-	"github.com/robert-nix/ansihtml"
+	"github.com/zeripath/ansihtml"
 	"github.com/stretchr/testify/assert"
 )
 

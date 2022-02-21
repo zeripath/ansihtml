@@ -1,4 +1,4 @@
-module github.com/robert-nix/ansihtml
+module github.com/zeripath/ansihtml
 
 go 1.15
 
